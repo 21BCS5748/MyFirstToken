@@ -11,3 +11,26 @@ The token creation contract incorporates three essential public variables: token
 
 These public variables play a crucial role in defining and identifying the token within the contract, enabling effective management and interaction with the token throughout its lifecycle.
 
+The contract's mapping, balances, enables efficient storage and retrieval of token balances for addresses, ensuring seamless tracking of ownership and facilitating secure transactions within the blockchain ecosystem.
+
+* Token Creation:
+The contract includes a "mint" function that increases the total supply by a specified value and augments the balance of a given address accordingly. This facilitates the creation of new tokens while accurately tracking the total supply and individual balances.
+
+* Token Destruction:
+For token destruction, the contract features a "burn" function that deducts a specified value from both the total supply and the balance associated with a given address. This controlled reduction in supply and balance allows for the removal of tokens while maintaining accurate records within the contract.
+
+## Authors
+Metacrafter Chris  
+[@metacraftersio](https://twitter.com/metacraftersio)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
+
+
+
+
+
+
