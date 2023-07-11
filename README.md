@@ -5,7 +5,7 @@ Token creation involves developing a digital asset on a blockchain network using
 ## Getting Started
 ### Executing Program
 The token creation contract incorporates three essential public variables: tokenName, tokenAbbrv, and totalSupply. These variables serve specific purposes within the contract's functionality. 
--The tokenName variable is of string data type and denotes the name assigned to the token. 
--Similarly, the tokenAbbrv variable, also of string data type, represents the abbreviation associated with the token. 
--Lastly, the totalSupply variable, an unsigned integer, signifies the overall supply of tokens available. These public variables play a crucial role in defining and identifying the token within the contract, enabling effective management and interaction with the token throughout its lifecycle.
+* The tokenName variable is of string data type and denotes the name assigned to the token. 
+* Similarly, the tokenAbbrv variable, also of string data type, represents the abbreviation associated with the token. 
+* Lastly, the totalSupply variable, an unsigned integer, signifies the overall supply of tokens available. These public variables play a crucial role in defining and identifying the token within the contract, enabling effective management and interaction with the token throughout its lifecycle.
 
