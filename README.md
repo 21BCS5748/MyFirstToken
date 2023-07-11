@@ -19,10 +19,6 @@ The contract includes a "mint" function that increases the total supply by a spe
 * Token Destruction:
 For token destruction, the contract features a "burn" function that deducts a specified value from both the total supply and the balance associated with a given address. This controlled reduction in supply and balance allows for the removal of tokens while maintaining accurate records within the contract.
 
-## Authors
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
